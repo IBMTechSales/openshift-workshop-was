@@ -1,0 +1,12 @@
+Launching defaultServer (Open Liberty 21.0.0.4/wlp-1.0.51.cl210420210407-0944) on OpenJDK 64-Bit Server VM, version 11.0.11+9-Ubuntu-0ubuntu2.18.04 (en_US)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[AUDIT   ] CWWKG0093A: Processing configuration drop-ins resource: /home/ibmdemo/Student/labs/devmode/demo-project/target/liberty/wlp/usr/servers/defaultServer/configDropins/overrides/liberty-plugin-variable-config.xml
+[ERROR   ] CWWKF0001E: A feature definition could not be found for mpmetrics-2.3
+[ERROR   ] CWWKF0001E: A feature definition could not be found for mpconfig-1.4
+[ERROR   ] CWWKF0001E: A feature definition could not be found for cdi-2.0
+[ERROR   ] CWWKF0001E: A feature definition could not be found for jsonp-1.1
+[ERROR   ] CWWKF0001E: A feature definition could not be found for jaxrs-2.1
+[AUDIT   ] CWWKF0011I: The defaultServer server is ready to run a smarter planet. The defaultServer server started in 1.060 seconds.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Tuesday, May 11, 2021 at 3:27 PM. The server defaultServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKE0036I: The server defaultServer stopped after 7.485 seconds.

@@ -1,0 +1,24 @@
+********************************************************************************
+product = Open Liberty 21.0.0.4 (wlp-1.0.51.cl210420210407-0944)
+wlp.install.dir = /home/ibmdemo/Student/labs/devmode/demo-project/target/liberty/wlp/
+java.home = /usr/lib/jvm/java-11-openjdk-amd64
+java.version = 11.0.11
+java.runtime = OpenJDK Runtime Environment (11.0.11+9-Ubuntu-0ubuntu2.18.04)
+os = Linux (5.3.0-28-generic; amd64) (en_US)
+process = 5808@ibmdemo-virtual-machine
+********************************************************************************
+[5/11/21, 15:26:35:449 CEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server defaultServer has been launched.
+[5/11/21, 15:26:36:242 CEST] 00000016 com.ibm.ws.config.xml.internal.ServerXMLConfiguration        A CWWKG0093A: Processing configuration drop-ins resource: /home/ibmdemo/Student/labs/devmode/demo-project/target/liberty/wlp/usr/servers/defaultServer/configDropins/overrides/liberty-plugin-variable-config.xml
+[5/11/21, 15:26:36:570 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[5/11/21, 15:26:36:584 CEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 1.389 seconds
+[5/11/21, 15:26:36:596 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            E CWWKF0001E: A feature definition could not be found for mpmetrics-2.3
+[5/11/21, 15:26:36:597 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            E CWWKF0001E: A feature definition could not be found for mpconfig-1.4
+[5/11/21, 15:26:36:597 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            E CWWKF0001E: A feature definition could not be found for cdi-2.0
+[5/11/21, 15:26:36:597 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            E CWWKF0001E: A feature definition could not be found for jsonp-1.1
+[5/11/21, 15:26:36:598 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            E CWWKF0001E: A feature definition could not be found for jaxrs-2.1
+[5/11/21, 15:26:36:629 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 0.061 seconds.
+[5/11/21, 15:26:36:629 CEST] 00000021 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The defaultServer server is ready to run a smarter planet. The defaultServer server started in 1.445 seconds.
+[5/11/21, 15:26:44:976 CEST] 00000011 com.ibm.ws.kernel.launch.internal.ServerCommandListener      A CWWKE0055I: Server shutdown requested on Tuesday, May 11, 2021 at 3:26 PM. The server defaultServer is shutting down.
+[5/11/21, 15:26:44:980 CEST] 0000002a com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[5/11/21, 15:26:44:991 CEST] 0000002a com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[5/11/21, 15:26:45:111 CEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server defaultServer stopped after 9.927 seconds.

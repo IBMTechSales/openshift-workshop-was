@@ -1,0 +1,12 @@
+
+arg0=labServer
+arg1=--status
+exit=1
+
+                 Java home:  /home/ibmdemo/Student/WLP_21.0.0.3/java11/jdk-11.0.10+9
+              Install root:  /home/ibmdemo/Student/WLP_21.0.0.3/wlp/
+          System libraries:  /home/ibmdemo/Student/WLP_21.0.0.3/wlp/lib/
+                 User root:  /home/ibmdemo/Student/WLP_21.0.0.3/wlp/usr/
+                    Config:  /home/ibmdemo/Student/WLP_21.0.0.3/wlp/usr/servers/labServer/
+                    Output:  /home/ibmdemo/Student/WLP_21.0.0.3/wlp/usr/servers/labServer/
+

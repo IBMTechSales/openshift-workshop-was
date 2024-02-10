@@ -1,0 +1,21 @@
+********************************************************************************
+product = WebSphere Application Server 21.0.0.3 (wlp-1.0.50.cl210320210309-1101)
+wlp.install.dir = /home/ibmdemo/Student/WLP_21.0.0.3/wlp/
+java.home = /home/ibmdemo/Student/WLP_21.0.0.3/java11/jdk-11.0.10+9
+java.version = 11.0.10
+java.runtime = OpenJDK Runtime Environment (11.0.10+9)
+os = Linux (5.3.0-28-generic; amd64) (en_US)
+process = 11739@127.0.1.1
+********************************************************************************
+[6/3/21, 19:31:38:819 CEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server labServer has been launched.
+[6/3/21, 19:31:39:197 CEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 0.56 seconds
+[6/3/21, 19:31:39:241 CEST] 0000002a com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[6/3/21, 19:31:39:543 CEST] 0000001f com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Monitoring dropins for applications.
+[6/3/21, 19:31:39:752 CEST] 0000002a com.ibm.ws.tcpchannel.internal.TCPPort                       I CWWKO0219I: TCP Channel defaultHttpEndpoint has been started and is now listening for requests on host localhost  (IPv4: 127.0.0.1) port 9080.
+[6/3/21, 19:31:39:764 CEST] 0000002a com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [localConnector-1.0].
+[6/3/21, 19:31:39:764 CEST] 0000002a com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 0.568 seconds.
+[6/3/21, 19:31:39:765 CEST] 0000002a com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The labServer server is ready to run a smarter planet. The labServer server started in 1.129 seconds.
+[6/3/21, 19:31:51:342 CEST] 0000003c com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[6/3/21, 19:31:51:346 CEST] 00000037 com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: TCP Channel defaultHttpEndpoint has stopped listening for requests on host localhost  (IPv4: 127.0.0.1) port 9080.
+[6/3/21, 19:31:52:347 CEST] 0000003c com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[6/3/21, 19:31:52:691 CEST] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server labServer stopped after 14.055 seconds.
